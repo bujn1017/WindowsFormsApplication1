@@ -102,7 +102,7 @@ namespace WindowsFormsApplication1
                 int i = 0;
                 int j = 0;
                 var aa = ReadUserDataExDLL(ref o, bx, i, j);
-                var ddsf = "sdf";
+                var ddsf = "sdf111";
                 //    MyDiskInfo o = new MyDiskInfo();
                 //    o.AdapterID =0;
                 //    o.TargetID = 0;
